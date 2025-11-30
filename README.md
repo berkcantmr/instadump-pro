@@ -1,3 +1,30 @@
+# 🔥 INSTADUMP PRO
+
+**INSTADUMP PRO**, Python ve Playwright kullanılarak geliştirilmiş, gelişmiş bir Instagram arşivleme, analiz ve veri görselleştirme aracıdır.
+
+## 🚀 Özellikler
+
+- **Tam Otomasyon:** Tarayıcı üzerinden insan gibi davranarak veri toplar (Stealth Modu).
+- **Güvenli Giriş:** Session yönetimi ile her seferinde şifre girmeye gerek kalmaz.
+- **Kapsamlı İndirme:**
+  - 📸 Gönderiler (Çoklu kaydırmalı/Carousel postlar dahil)
+  - 🟣 Hikayeler (Stories) - *Video ve Fotoğraf ayrımı*
+  - 🌟 Öne Çıkanlar (Highlights) - *Kapak, İçerik ve Başlık ayrımı*
+  - 👥 Network Analizi (Takipçi/Takip Edilenler ve Karşılıklı Takipler)
+- **Görsel Dashboard:** İndirilen verileri `Streamlit` arayüzü ile galeri modunda görüntüleme.
+- **Crash Guard:** Tarayıcı kapansa bile kaldığı yerden devam etme veya güvenli çıkış.
+- **Akıllı Bypass:** "Video Oynatılamıyor" hatalarını ve ara ekranları otomatik geçer.
+
+## 🛠️ Kurulum
+
+Projeyi bilgisayarınıza kurmak için aşağıdaki adımları sırasıyla uygulayın.
+
+### 1. Repoyu Klonlayın
+
+git clone [https://github.com/berkcantmr/instadump-pro.git](https://github.com/berkcantmr/instadump-pro.git)
+cd instadump-pro
+
+
 2\. Gerekli Paketleri Yükleyin
 
 Tüm kütüphaneleri ve gerekli tarayıcıyı tek seferde kurmak için aşağıdaki bloğu kopyalayıp yapıştırın:
