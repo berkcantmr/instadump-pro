@@ -1,0 +1,11 @@
+# --- KİŞİSEL VERİLER (ASLA YÜKLEME) ---
+sessions/
+output/
+downloads/
+__pycache__/
+*.pyc
+
+# --- SANAL ORTAM ---
+venv/
+.env
+.DS_Store
