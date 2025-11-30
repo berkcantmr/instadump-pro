@@ -52,35 +52,6 @@ Bash
 
 streamlit run app.py
 
-⚠️ Yasal Uyarı
+⚠️ Yasal Uyarı!!!
 
 Bu araç sadece eğitim ve kişisel arşivleme amaçlı geliştirilmiştir. Kullanıcıların Instagram kullanım koşullarına (ToS) uyması kendi sorumluluğundadır. Geliştirici, aracın kötüye kullanımından sorumlu tutulamaz.
-
-
-
-
-
----
-
-
-
-\### ⚠️ Unutma: `requirements.txt` Dosyan Hazır mı?
-
-
-
-GitHub'a yüklemeden önce proje klasöründe \*\*`requirements.txt`\*\* adında bir dosya olduğundan ve içinde şunların yazdığından emin ol:
-
-
-
-```text
-
-playwright
-
-pandas
-
-streamlit
-
-tqdm
-
-Pillow
-
